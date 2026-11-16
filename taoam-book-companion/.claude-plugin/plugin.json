@@ -1,0 +1,23 @@
+{
+  "name": "taoam-book-companion",
+  "displayName": "TAOAM Book Companion",
+  "version": "0.1.0",
+  "description": "Explore mathematical terms, concepts, theorems, and symbols with What It Is, How It Is Used, A Closer Look, and Further Reading.",
+  "author": {
+    "name": "Ouviaj LLC",
+    "email": "nucleus@ouviaj.com",
+    "url": "https://ouviaj.com"
+  },
+  "homepage": "https://ouviaj.com/the-atlas-of-advanced-mathematics/",
+  "keywords": [
+    "mathematics",
+    "education",
+    "TAOAM",
+    "book-companion"
+  ],
+  "icon": "./assets/ouviaj-logo-square.png",
+  "documentationUrl": "https://ouviaj.com/the-atlas-of-advanced-mathematics/claude-skill/",
+  "supportUrl": "https://ouviaj.com/the-atlas-of-advanced-mathematics/support/",
+  "privacyPolicyUrl": "https://ouviaj.com/the-atlas-of-advanced-mathematics/privacy/",
+  "termsOfServiceUrl": "https://ouviaj.com/the-atlas-of-advanced-mathematics/terms/"
+}
